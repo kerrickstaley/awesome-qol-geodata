@@ -7,6 +7,25 @@ See the [code](code) directory for Python code samples showing how to load data 
 
 Contributions to this list are warmly welcome; please submit a pull request :)
 
+- [Awesome Quality of Life Geodata](#awesome-quality-of-life-geodata)
+  - [Cost of Living / Housing](#cost-of-living--housing)
+    - [Zillow Housing Data](#zillow-housing-data)
+  - [Weather / Climate](#weather--climate)
+    - [NOAA ISD](#noaa-isd)
+  - [Greenspace / Access to Nature / Parks](#greenspace--access-to-nature--parks)
+    - [ParkScore](#parkscore)
+  - [Walkability / Bikeability / Transit](#walkability--bikeability--transit)
+    - [Walk Score](#walk-score)
+  - [Air polution](#air-polution)
+    - [EPA AQS](#epa-aqs)
+    - [AQICN](#aqicn)
+  - [Climate Change](#climate-change)
+    - [Hsiang et al. 2017](#hsiang-et-al-2017)
+  - [Related stuff](#related-stuff)
+    - [City quality of life indices on Wikipedia](#city-quality-of-life-indices-on-wikipedia)
+    - [highspeedinternet.com's Best U.S. Cities to Live and Work Remotely](#highspeedinternetcoms-best-us-cities-to-live-and-work-remotely)
+    - [nomads.com](#nomadscom)
+
 ## Cost of Living / Housing
 ### [Zillow Housing Data](https://www.zillow.com/research/data/)
 Cost of housing in various cities around the United States. Includes both renting and buying data, for homes of different sizes. *US-only*
