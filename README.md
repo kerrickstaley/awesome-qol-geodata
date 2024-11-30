@@ -5,6 +5,8 @@ I used some of these datasets when building [NestCB](https://github.com/kerricks
 
 See the [code](code) directory for Python code samples showing how to load data from the below sources.
 
+Contributions to this list are warmly welcome; please submit a pull request :)
+
 ## Cost of Living / Housing
 ### [Zillow Housing Data](https://www.zillow.com/research/data/)
 Cost of housing in various cities around the United States. Includes both renting and buying data, for homes of different sizes. *US-only*
