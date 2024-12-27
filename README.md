@@ -21,6 +21,9 @@ Contributions to this list are warmly welcome; please submit a pull request :)
     - [AQICN](#aqicn)
   - [Climate Change](#climate-change)
     - [Hsiang et al. 2017](#hsiang-et-al-2017)
+  - [Dating](#dating)
+    - [US Census Geographic Comparison Tables](#us-census-geographic-comparison-tables)
+    - ["Undressed" blog post by OKCupid](#undressed-blog-post-by-okcupid)
   - [Related stuff](#related-stuff)
     - [City quality of life indices on Wikipedia](#city-quality-of-life-indices-on-wikipedia)
     - [highspeedinternet.com's Best U.S. Cities to Live and Work Remotely](#highspeedinternetcoms-best-us-cities-to-live-and-work-remotely)
@@ -52,6 +55,13 @@ Gives daily PM2.5, PM10, ozone, nitrogen dioxide, sulfur dioxide, and carbon mon
 ## Climate Change
 ### [Hsiang et al. 2017](https://www.science.org/doi/epdf/10.1126/science.aal4369)
 Estimates the future economic impact of climate change in the United States by 2090, per county, as a percentage of each county's current GDP. [CSV with data is here](http://impactlab.org/wp-content/uploads/2023/03/county_damages_by_sector.csv); see "Total damages (% county income)" column. *US-only*
+
+## Dating
+### [US Census Geographic Comparison Tables](https://www.census.gov/acs/www/data/data-tables-and-tools/geographic-comparison-tables/)
+Many demographic metrics at city, county, and state aggregation levels. [Ratio of Unmarried Men 15 to 44 Years Per 100 Unmarried Women 15 to 44 Years (CSV download)](https://www2.census.gov/programs-surveys/acs/data/2023/1_year_geographic_comparison_tables/GCT1203.csv) is relevant. *US-only*.
+
+### ["Undressed" blog post by OKCupid](https://theblog.okcupid.com/undressed-this-is-what-dating-culture-looks-like-across-the-us-ef46e8429b0a)
+Data about dating app behavior by OKCupid users in several large US cities. Data is from 2017 and only covers select cities, so not quite "awesome". *US-only*
 
 ## Related stuff
 ### [City quality of life indices on Wikipedia](https://en.wikipedia.org/wiki/City_quality_of_life_indices)
