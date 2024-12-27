@@ -23,7 +23,7 @@ Contributions to this list are warmly welcome; please submit a pull request :)
     - [Hsiang et al. 2017](#hsiang-et-al-2017)
   - [Dating](#dating)
     - [US Census Geographic Comparison Tables](#us-census-geographic-comparison-tables)
-    - ["Undressed" blog post by OKCupid](#undressed-blog-post-by-okcupid)
+    - ["Undressed: This is What Dating Culture Looks Like Across the US" blog post by OKCupid](#undressed-this-is-what-dating-culture-looks-like-across-the-us-blog-post-by-okcupid)
   - [Related stuff](#related-stuff)
     - [City quality of life indices on Wikipedia](#city-quality-of-life-indices-on-wikipedia)
     - [highspeedinternet.com's Best U.S. Cities to Live and Work Remotely](#highspeedinternetcoms-best-us-cities-to-live-and-work-remotely)
@@ -60,7 +60,7 @@ Estimates the future economic impact of climate change in the United States by 2
 ### [US Census Geographic Comparison Tables](https://www.census.gov/acs/www/data/data-tables-and-tools/geographic-comparison-tables/)
 Many demographic metrics at city, county, and state aggregation levels. [Ratio of Unmarried Men 15 to 44 Years Per 100 Unmarried Women 15 to 44 Years (CSV download)](https://www2.census.gov/programs-surveys/acs/data/2023/1_year_geographic_comparison_tables/GCT1203.csv) is relevant. *US-only*.
 
-### ["Undressed" blog post by OKCupid](https://theblog.okcupid.com/undressed-this-is-what-dating-culture-looks-like-across-the-us-ef46e8429b0a)
+### ["Undressed: This is What Dating Culture Looks Like Across the US" blog post by OKCupid](https://theblog.okcupid.com/undressed-this-is-what-dating-culture-looks-like-across-the-us-ef46e8429b0a)
 Data about dating app behavior by OKCupid users in several large US cities. Data is from 2017 and only covers select cities, so not quite "awesome". *US-only*
 
 ## Related stuff
